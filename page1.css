@@ -1,0 +1,61 @@
+@import "compass/css3";
+
+
+
+h1.hh{
+    
+    -webkit-text-stroke:3px #f0ff42;
+    -webkit-text-fill-color:#2793ff;
+    -webkit-animation:fill 0.4s
+    infinite alternate;    
+    text-align: center;
+    font-size:60px;
+}
+
+@-webkit-keyframes fill{
+    
+    from{
+        -webkit-text-fill-color:#f41a1a;
+    }
+    to{ -web-text-fill-color:#0dce0d;}
+}
+
+audio.audio{
+    
+    background-color: #ff8c00;
+     width:35%;
+    height: 35px;
+    margin-left:33%;
+    
+}
+p{
+    color: #ff8c00;
+    font-family:cursive;
+    font-size: 25px;
+    text-align: center;
+}
+.mo{
+    
+    font-size:17px;
+    color: #27ff00;
+    font-family:arial;
+}
+body.b1{
+    
+   background-color: #000000b8;
+    background-repeat: no-repeat;
+    background-size:100% 100%
+    
+}
+
+#main1{
+    margin-top: 45px;
+    margin:80px auto;
+    position:fixed;
+    width:45px;
+    
+	
+}
+.se{
+    margin-left: 50%;
+}

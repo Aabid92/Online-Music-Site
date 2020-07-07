@@ -1,0 +1,29 @@
+body{
+    
+  background-image: url(img/mu3.jpg);
+    background-size: cover;
+}
+
+.login-box{
+    
+    max-width:700px;
+    float:none;
+    margin: 150px auto;
+}
+
+.login-L{
+    
+    background-color: rgba(255, 255, 255, 0.47);
+    padding: 30px;
+    
+}
+
+.login-R{
+    
+   background-color: white;
+    padding: 30px;
+}
+.form-control{
+    
+    background-color: transparent !important;
+}
